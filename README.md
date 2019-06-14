@@ -11,8 +11,6 @@ Humidity_Scatter - Shows a picture of a scatter chart showing humidity vs latitu
 
 Temp_Scatter - Shows a picture of a scatter chart showing temperature vs latitude. 
 
-Weather API Thoughts - A Word document with a brief explanation of each chart and observations about the data presented in each chart.  
-
 WeatherPy-Final - The code that pulls in API data and creates the graphs listed using Python, Pandas and Matplotlib.
 
 Wind_Scatter - Shows a picture of a scatter chart showing wind speed vs latitude.
